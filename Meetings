@@ -1,0 +1,45 @@
+
+04-03-2026
+
+Shaun suggested:
+The app should let students access their own course information in a personalized way. Change name, add picture 
+It should include accessibility features like shortcuts. Accept
+A clear colour scheme to separate different sections. 
+A search feature to make information easy to find. Accept 
+ 
+ 
+Mercy suggested:
+Students should be able to check their timetable and see where classes are located. Accept
+Lecturer contact details should be included. Accept
+Information about campus offices (for example, Student Hub). Accept
+A section for future events (inspired by Brightspace layout). Accept
+Using a green colour palette: Accept
+#2f6f4e, #9fe0b5, #eef6f0, #1f2a24
+(Green was chosen because it feels calm, clean, and professional, and works for different age groups.)
+Using Miro to design our mockups before building the app, since we are familiar with it and it helps visualize ideas clearly. Accept 
+ 
+Stefan suggested:
+An option to switch between student view and staff view. To be reviewed 
+Exam timetables filtered by course code, so students only see their own exams. Accept 
+Meeting Notes:
+Students can find their example time table by searching their code ( we can do that through supbase using a table and link it) 
+ 
+Daniel suggested:
+A grades portal where students can see grades, feedback, and academic progress. Accept
+Library features like checking book availability, renewing loans, and reserving study rooms.
+ 
+Meetings Notes:
+Study rooms accept
+Renewing loans decline
+Library features like checking book availability accept 
+Grades, Feedback Accept 
+Academic Progress Decline
+ 
+ 
+Josh suggested:
+A news section for campus updates. 
+A feature to join societies through the app. Accept 
+Showing the canteen menu and student deals.
+ 
+Meetings: 
+Testimonials example: We write news and there are arrows where people can scroll and they are like 6 news. Can be do through HTML & CSS
